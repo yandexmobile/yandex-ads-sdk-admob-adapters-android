@@ -1,6 +1,3 @@
-# Yandex Advertising Network Mobile
-This package contains AdMob Adatpers for Mediation.
+## This repository is deprecated in favor of [generic Ads SDK repository] [SDK]
 
-## License
-EULA could be found at:
-https://legal.yandex.com/partner_ch/
+[SDK]: https://github.com/yandexmobile/yandex-ads-sdk-android
